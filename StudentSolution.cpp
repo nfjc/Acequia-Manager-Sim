@@ -18,6 +18,7 @@
     develop the logic and algorithm for finding a solution. The simulation has a fixed time.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     The student solution will be evaluated on the criteria that each region meets the following:
     - a given region is NOT flooded
     - a given region is NOT in drought
@@ -100,6 +101,8 @@ void solveProblems(AcequiaManager& manager)
 }
 
 =======
+=======
+>>>>>>> 3aba904... Our final submission
 	The student solution will be evaluated on the criteria that each region meets the following:
 	- a given region is NOT flooded
 	- a given region is NOT in drought
@@ -141,4 +144,7 @@ void solveProblems(AcequiaManager& manager)
 		manager.nexthour();
 	}
 }
+<<<<<<< HEAD
+>>>>>>> 3aba904... Our final submission
+=======
 >>>>>>> 3aba904... Our final submission

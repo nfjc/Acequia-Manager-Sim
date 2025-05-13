@@ -1,6 +1,14 @@
 Max Simulation Time
+<<<<<<< HEAD
 67
 Random Values
 North,91,83,153
 South,98,67,112
 East,33,57,165
+=======
+110
+Random Values
+North,85,79,131
+South,41,95,158
+East,61,73,138
+>>>>>>> 3aba904... Our final submission
